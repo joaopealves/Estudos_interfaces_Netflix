@@ -11,3 +11,5 @@ Login Screen
 Movies Screen
 
 ![whatch the video](https://raw.githubusercontent.com/joaopealves/Estudos_interfaces_Netflix/master/documents/Black_Theme/moviesScreen.JPG)
+
+### By <[João Pedro Alves](https://github.com/Mitico-S)/>
