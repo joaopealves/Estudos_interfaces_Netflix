@@ -2,7 +2,7 @@
 
 Splash Screen
 
-![whatch the video](https://raw.githubusercontent.com/joaopealves/Estudos_interfaces_Netflix/master/documents/Black_Theme/loginScreen.JPG)
+![whatch the video](https://raw.githubusercontent.com/joaopealves/Estudos_interfaces_Netflix/master/documents/Black_Theme/splashScreenBlack.JPG)
 
 Login Screen
 
