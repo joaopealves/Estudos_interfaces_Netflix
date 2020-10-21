@@ -7,15 +7,16 @@ export const Container = styled.div`
   max-width: 1000px;
   flex-direction: column;
 
-  @media (min-width: 1000px) {
-    padding: 70 30px;
+  @media (max-width: 1000px) {
+    padding: 70px 30px;
   }
 `;
 
 export const Column = styled.div`
-  displat: flex
+  display: flex;
   flex-direction: column;
-  text-align: left`;
+  text-align: left;
+`;
 
 export const Row = styled.div`
   display: grid;
