@@ -37,7 +37,7 @@ Accordion.Item = function AccordionItem({ children, ...restProps }) {
 };
 
 Accordion.Header = function AccordionHeader({ children, ...restProps }) {
-  const { toggleShow, setToggle } = useContext(ToggleContext);
+  const { toggleShow, setToggleShow } = useContext(ToggleContext);
   return (
     <Header
       onCick={() => setToggleShow((toggleShow) => !toggleShow)}
