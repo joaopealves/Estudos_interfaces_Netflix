@@ -2,5 +2,9 @@
   "name": "Estudos_interfaces_Netflix",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  }
 }
